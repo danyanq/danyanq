@@ -1,17 +1,17 @@
 # Basic
-title: 裘丹琰
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: Keira 裘丹琰
+subtitle: Learning Daily 
+description: Wecome to my Daily
 # 头像里面的标题
 avatarTitle: danyanq
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: Front-end / English
 url: "http://danyanq.io"
 
 # Comment
 comment:
-    # disqus: leopard
-    duoshuo: leopard 
+    # disqus: danyanq
+    duoshuo: danyanq
 
 # Social
 social:
@@ -33,13 +33,6 @@ ga:
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
 
 permalink: /:year/:month/:title/
