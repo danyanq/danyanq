@@ -1,5 +1,5 @@
 # Site Settings
-title:               Keria's Blog
+title:               Keira's Blog
 tagline:             a way to  records the learning 
 description:
 baseurl:            #"/Lagrange"
@@ -7,7 +7,7 @@ url:                #"https://lenpaul.github.io"
 github:
   url:               #"https://danyanq.github.io/personalblog/"
 author:
-  name:              "Keria Qiu"
+  name:              "Keira Qiu"
   email:             "qiudanyan86@163.com"
   twitter:           "qiudanyan"
   instagram:         "qiudanyan"
